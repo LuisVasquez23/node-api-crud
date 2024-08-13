@@ -15,7 +15,7 @@ This project is a basic RESTful API built with Node.js using Express. The API pr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourUsername/node-api-crud.git
+    git clone https://github.com/LuisVasquez23/node-api-crud.git
     cd node-api-crud
     ```
 
